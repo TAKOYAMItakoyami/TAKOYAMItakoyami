@@ -71,8 +71,8 @@
 
 ---
 
-### GitHub Stats
+### My Stats:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TAKOYAMItakoyami&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAKOYAMItakoyami&layout=compact&theme=radical&hide_border=true&hide=html,css,jupyter%20notebook" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=TAKoyamitakoyami&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
